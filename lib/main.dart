@@ -51,6 +51,7 @@ class _TesteState extends State<Teste> {
 //      print(event.data);
 //    });
 
+  
 //  void getText() {
 //    setState(() {
 //      firestoreInstance
